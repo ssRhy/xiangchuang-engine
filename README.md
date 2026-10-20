@@ -20,4 +20,16 @@
 
 用 Mac WPS 打开可编辑 PPTX，放映前确认字体与页面；PDF 可作静态备用。详细操作见 `presentation/使用与编辑说明.md`。
 
-本仓库上传比赛路演交付资料，暂不包含前端源码。
+## 前端源码
+
+`frontend/` 包含 React、TypeScript、Vite 源码、测试、演示照片和宣传素材。需 Node.js 22.6+（建议 24）与 npm。
+
+```sh
+cd frontend
+npm ci
+npm run dev
+```
+
+浏览器访问终端显示的本地地址。验证命令：`npm test`、`npm run build`。详细演示流程、运行边界与素材来源见 [前端说明](frontend/README.md)。
+
+当前为前端 Mock 演示，不包含在线模型、账号登录、自动发布或真实交易。照片仅在当前浏览器会话读取。

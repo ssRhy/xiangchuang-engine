@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lychee", "name": "鲜荔礼盒", "brand": "岭南鲜荔", "category": "水果", "origin": "广东茂名",
+    "unit": "2.5 kg / 盒", "price": "129", "features": "清甜多汁，适合亲友分享", "color": "#c77163",
+    "farmer": "果农阿林", "stock": "80 盒", "harvest": "6 月上旬采收", "reach": "shipping", "use": "daily", "firstChannel": "xhs",
+    "deliveryArea": "广东省内", "shippingFee": "每单 8 元，不含在商品售价中", "deliveryMethod": "快递配送",
+    "dispatchTime": "确认订单后 2 天内发货，具体送达时间以承运方为准",
+    "afterSales": "收货如有破损，请保留照片并联系卖家，核对情况后协商处理。", "certificationEvidence": ""
+  },
+  {
+    "id": "tea", "name": "英德红茶礼盒", "brand": "山间茶语", "category": "茶叶", "origin": "广东英德",
+    "unit": "100 g / 盒", "price": "79", "features": "红茶礼盒装，适合探访亲友时分享", "color": "#7d8461",
+    "farmer": "茶农小周", "stock": "120 盒", "harvest": "当季制茶批次", "reach": "shipping", "use": "gift", "firstChannel": "xhs",
+    "deliveryArea": "广东省内", "shippingFee": "每单 6 元，不含在商品售价中", "deliveryMethod": "快递配送",
+    "dispatchTime": "确认订单后 2 天内发货，具体送达时间以承运方为准",
+    "afterSales": "收到包装破损或商品不符时，请保留照片联系卖家，核对后协商处理。", "certificationEvidence": ""
+  },
+  {
+    "id": "citrus", "name": "贡柑家庭装", "brand": "柑甜岭南", "category": "水果", "origin": "广东肇庆",
+    "unit": "3 kg / 盒", "price": "59", "features": "适合家庭水果盘，也适合分给亲友", "color": "#c9934b",
+    "farmer": "种柑的陈叔", "stock": "60 盒", "harvest": "11 月中旬上市", "reach": "nearby", "use": "daily", "firstChannel": "wechat",
+    "deliveryArea": "肇庆本地约定自提点", "shippingFee": "自提无运费，暂不提供配送", "deliveryMethod": "本地自提",
+    "dispatchTime": "双方确认数量后，约定次日下午自提",
+    "afterSales": "自提时当面核对数量和外观，发现问题及时与卖家协商。", "certificationEvidence": ""
+  }
+]
