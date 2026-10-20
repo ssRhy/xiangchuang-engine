@@ -1,0 +1,15 @@
+{
+  "pages": 18,
+  "mainTalkSeconds": 300,
+  "fontFamily": "Arial Unicode MS",
+  "nativeObjects": {
+    "text": 315,
+    "shape": 107,
+    "image": 12,
+    "table": 3,
+    "groups": 60
+  },
+  "fullPageImagesInEditableDeck": 0,
+  "sourceTextAndGeometry": "matched",
+  "checks": "PPTX structure, source content, geometry, glyph coverage; no WPS playback or screenshot QA"
+}
